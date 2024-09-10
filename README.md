@@ -7,3 +7,5 @@ First, we fetch valid currencies and exchange rate data.
 Then, the user inputs a base and target currency, and we return the exchange rate.
 Next, we use the selected currency pair to retrieve relevant news articles from the Currents API.
 Finally, we print the news articles or handle the case where no news is found.
+
+If you want to learn more or use the program, please refer to the Google Colab file uploaded in this repository.
