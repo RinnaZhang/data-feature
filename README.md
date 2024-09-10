@@ -1,4 +1,4 @@
-# data-feature
+# assignment 1 | data-feature
 This project combines real time exchange rates with relevant financial news to provide users with insights into the FX markets. 
 I used two APIs: Currency Beacon API that fetches exchange rates and Currents API that retrieves related news.
 
